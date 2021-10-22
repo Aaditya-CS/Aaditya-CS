@@ -7,7 +7,7 @@ My name is Aaditya CS, but I'm also identified by my online username, KoLdeN. He
    - I'm learning programming with a passion and plan to make it as my profession.
    - I'm keeping my cards open when it comes to specialising in fields of programming, but I'm very keen when it comes to Game development and desktop applications.
 
-[![Aaditya CS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditya-CS&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Aaditya CS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditya-CS&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
