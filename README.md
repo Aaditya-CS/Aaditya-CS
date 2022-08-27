@@ -1,4 +1,4 @@
-### Hello there!
+### Hello there! ⚡
 
 My name is Aaditya CS, but I'm also identified by my online username, KoLdeN. Here are some fun facts about myself!
 
