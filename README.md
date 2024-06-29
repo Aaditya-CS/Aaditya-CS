@@ -1,5 +1,7 @@
 ### Hello there! ⚡
 
+![IMG_20240629_064829_562](https://github.com/Aaditya-CS/Aaditya-CS/assets/62802243/e2adfc13-6f8d-42e2-b8c7-ff09a018b0b3)
+
 My name is Aaditya CS, but I'm also identified by my online username, KoLdeN. Here are some fun facts about myself!
 
    - 🔭 I'm an 20 year old male student pursuing my Bachelor's degree in Computer Science Engineering.
