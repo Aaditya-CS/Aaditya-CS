@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hello there! ⚡<br><br>![IMG_20240629_064829_562](https://github.com/Aaditya-CS/Aaditya-CS/assets/62802243/e2adfc13-6f8d-42e2-b8c7-ff09a018b0b3)<br><br>My name is Aaditya CS, but I'm also identified by my online username, KoLdeN. Here are some fun facts about myself!<br><br>   - 🔭 I'm an 20 year old male student pursuing my Bachelor's degree in Computer Science Engineering.<br>   - 🌱 I've always been passionate about computers, spending tons of hours playing games and watching movies.<br>   - ⚡ I'm learning programming with a passion and plan to make it as my profession.<br>   - 👯 I'm keeping my cards open when it comes to specialising in fields of programming, but I'm very keen when it comes to Game development and Artificial Intelligence & Machine Learning.
+### Hello there! ⚡<br><br>![IMG_20240629_064829_562](https://github.com/Aaditya-CS/Aaditya-CS/assets/62802243/e2adfc13-6f8d-42e2-b8c7-ff09a018b0b3)<br><br>My name is Aaditya CS, but I'm also identified by my online username, KoLdeN. Here are some fun facts about myself!<br><br>   - 🔭 21. Racing towards success. <br>   - 🖥️ Progrraming. Games. Movies. <br>   - ⚡ Learning everyday. Growing every second. <br>   - 🔎 Back-end. Machine learning. Data Science. Embedded systems.
 
 
 ## 🌐 Socials:
